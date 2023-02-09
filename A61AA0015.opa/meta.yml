@@ -1,0 +1,24 @@
+id: A61AA0015
+title: 'Nāgārjuna: Ratnāvalī'
+type: translation
+pechas:
+- I2AD1A2D3
+- I6DDB47FB
+- I6F9FC4BB
+- I6751BC4A
+- I9DF8D508
+source_metadata:
+  languages:
+  - sa
+  - zh
+  - bo
+  - en
+  datatype: PlainText
+  created_at: 2023-02-10 00:33:14.356030
+  last_modified_at: 2023-02-10 00:33:14.356047
+alignment_to_base:
+  I2AD1A2D3/4169: C7DF
+  I6DDB47FB/FADA: C7DF
+  I6F9FC4BB/B805: C7DF
+  I6751BC4A/4292: C7DF
+  I9DF8D508/21A4: C7DF
